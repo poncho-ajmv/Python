@@ -37,4 +37,4 @@ print("")
 'HolaHolaHola'
 '''
 #Se puede tomar combinar varios tipos, tomar en cuneta que no todos se pueden combinar se deben de 
-#hacer con el signo de + o la , para poder juntarlo. 
+#hacer con el signo de + occ
