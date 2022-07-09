@@ -54,7 +54,8 @@ False
 {1:'uno',2:'dos',3:'tres'}
 
 
-
+#Saber el tipo de datos
+#type(variable)
 
 
 

@@ -53,3 +53,5 @@ while usuario != secreto and maquina != secreto:
                 superior = usuario - 1
         else:
             print("El usuario ha ganado")
+
+         #   5:3
