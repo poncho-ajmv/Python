@@ -1,0 +1,7 @@
+'''
+Procedimientos
+
+def identificador():
+    instrucciones
+    esto es para defiinirlo una vez y llamarlo cuando sea necesario.
+'''
